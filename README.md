@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **kavitakapkoti.kk123@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_1HjeDRQQo5YzT1kwxNdxDWdkV1slyc8/view](https://drive.google.com/file/d/1_1HjeDRQQo5YzT1kwxNdxDWdkV1slyc8/view)
+<!--- 📄 Know about my experiences [https://drive.google.com/file/d/1_1HjeDRQQo5YzT1kwxNdxDWdkV1slyc8/view](https://drive.google.com/file/d/1_1HjeDRQQo5YzT1kwxNdxDWdkV1slyc8/view)-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
