@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/kavitak82128" target="blank"><img src="https://img.shields.io/twitter/follow/kavitak82128?logo=twitter&style=for-the-badge" alt="kavitak82128" /></a> </p>
 
-- 🔭 BTEch gradute Computer Science and Engineering..**
+- 🎓 B.Tech CSE Graduate — **Uttarakhand Technical University**
 
-- 🌱 I’m currently learning **MERN stack**
+- 💻 **Full-Stack Developer | MERN Stack | React | Next.js**
   
-- 💬 Ask me about **JavaScript, react, Nodejs**
+- 💬 Ask me about **JavaScript, React, Node.js, MongoDB**
 
-- 📫 How to reach me **kavitakapkoti.kk123@gmail.com**
+- 📫 **kavitakapkoti.kk123@gmail.com**
 
 <!--- 📄 Know about my experiences [https://drive.google.com/file/d/1_1HjeDRQQo5YzT1kwxNdxDWdkV1slyc8/view](https://drive.google.com/file/d/1_1HjeDRQQo5YzT1kwxNdxDWdkV1slyc8/view)-->
 
