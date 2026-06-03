@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/kavitak82128" target="blank"><img src="https://img.shields.io/twitter/follow/kavitak82128?logo=twitter&style=for-the-badge" alt="kavitak82128" /></a> </p>
 
-- 🔭 I’m currently **Final Year Student specialized in Computer Science and Engineering..**
+- 🔭 BTEch gradute Computer Science and Engineering..**
 
 - 🌱 I’m currently learning **MERN stack**
   
