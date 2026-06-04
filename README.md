@@ -45,9 +45,9 @@
     
  </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kkapkoti&show_icons=true&locale=en&layout=compact" alt="kkapkoti" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kkapkoti&show_icons=true&locale=en&layout=compact" alt="KKapkoti" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kkapkoti&show_icons=true&locale=en" alt="kkapkoti" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kkapkoti&show_icons=true&locale=en" alt="KKapkoti" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kkapkoti&" alt="kkapkoti" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kkapkoti&" alt="KKapkoti" /></p>
 
