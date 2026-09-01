@@ -13,7 +13,7 @@
 
 - 💻 **DevOps | Cloud| MERN Stack**
   
-- 💬 Ask me about **DevOps, Cloud, Python, JavaScript, SQl**
+- 💬 Ask me about **DevOps, Cloud, Python, JavaScript, SQL**
 
 - 📫 **kkapkoti017@gmail.com**
 
