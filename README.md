@@ -1,6 +1,6 @@
 ![Header](https://github.com/KKapkoti/KKapkoti/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Kavita Kapkoti</h1>
-<h3 align="center">A passionate software developer and MERN Stack from India</h3>
+<h3 align="center">A passionate software developer and DevOps Engineer from India</h3>
 <img align="right" alt="coding" width="400" 
   src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif?utm_source=chatgpt.com">
 
@@ -11,11 +11,11 @@
 
 - 🎓 B.Tech CSE Graduate — **Uttarakhand Technical University**
 
-- 💻 **Full-Stack Developer | MERN Stack | React | Next.js**
+- 💻 **DevOps | Cloud| MERN Stack**
   
-- 💬 Ask me about **JavaScript, React, Node.js, MongoDB**
+- 💬 Ask me about **DevOps, Cloud, Python, JavaScript, SQl**
 
-- 📫 **kavitakapkoti.kk123@gmail.com**
+- 📫 **kkapkoti017@gmail.com**
 
 <!--- 📄 Know about my experiences [https://drive.google.com/file/d/1_1HjeDRQQo5YzT1kwxNdxDWdkV1slyc8/view](https://drive.google.com/file/d/1_1HjeDRQQo5YzT1kwxNdxDWdkV1slyc8/view)-->
 
