@@ -1,4 +1,4 @@
-![Header](https://github.com/KKapkoti/KKapkoti/blob/main/github-header-image.png)
+
 <h1 align="center">Hi 👋, I'm Kavita Kapkoti</h1>
 <h3 align="center">A passionate software developer and DevOps Engineer from India</h3>
 <img align="right" alt="coding" width="400" 
